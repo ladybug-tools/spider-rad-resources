@@ -1,7 +1,7 @@
 
 # Radiance Links
 
-_As with an software of this antiquity, there is a large corpora of reading material available online. Trying to put this material in a timeline or arriving at canonical descriptions is a jub better left to the historian of the future. In the meantime the following is a work-in-progress._
+_As with any software of this antiquity, there is a large corpora of reading material available online. Trying to put this material in a timeline or arriving at canonical descriptions is a jub better left to the historian of the future. In the meantime the following is a work-in-progress._
 
 ## Descriptions
 
@@ -151,8 +151,19 @@ User Manua]( https://rawgit.com/NREL/Radiance/master/doc/pdf/pmap-manual.pdf )
 
 ***
 
+## Forum
+
+* https://discourse.radiance-online.org/
+
+
 ## People
 
+
+#### Greg Ward
+
+* https://discourse.radiance-online.org/u/greg_ward/summary
+* http://radsite.lbl.gov/radiance/contributors/GregWard.html
+* http://www.anyhere.com/
 
 #### John Mardaljevic
 * j.mardaljevic@lboro.ac.uk
