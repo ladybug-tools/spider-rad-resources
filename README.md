@@ -13,12 +13,18 @@ value="You are now in a GitHub web page view - Click this button to view this re
 _<small>Spider RAD Resources</small>_
 
 ## Full Screen: [Spider RAD Resources]( https://www.ladybug.tools/spider-rad-rources/xxxxx.html )
+## Concept
 -->
 
+***
 
-## Concept
+#### [View Radiance RAD sample files online]( https://github.com/ladybug-tools/spider-rad-resources/tree/master/rad-sample-files )
 
+#### [Explore Radiance links and resources]( https://github.com/ladybug-tools/spider-rad-resources/blob/master/radiance-resources/radiance-links.md )
 
+***
+
+<!--
 ## To Do / Wish List
 
 
@@ -35,10 +41,10 @@ _<small>Spider RAD Resources</small>_
 
 ## Links of Interest
 
+-->
+#### Change Log
 
-## Change Log
-
-### 2018-09-07 ~ Theo
+##### 2018-09-07 ~ Theo
 
 * First commit
 
