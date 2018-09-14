@@ -1,7 +1,7 @@
 
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://www.ladybug.tools/spider-rad-rources/#README.md "View file as a web page." ) </span>
 
-<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="httprs://www.ladybug.tools/spider-rad-rources/"
+<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="httprs://www.ladybug.tools/spider-rad-resources/"
 value="You are now in a GitHub web page view - Click this button to view this read me file as source code" ></div>
 
 <br>
@@ -43,6 +43,11 @@ _<small>Spider RAD Resources</small>_
 
 -->
 #### Change Log
+
+##### 2018-09-13 ~ Theo
+
+* Simplified the sample files folder structure
+
 
 ##### 2018-09-07 ~ Theo
 
