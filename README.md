@@ -1,12 +1,12 @@
 
-<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://www.ladybug.tools/spider-rad-rources/#README.md "View file as a web page." ) </span>
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://www.ladybug.tools/spider-rad-resources/index.html#README.md "View file as a web page." ) </span>
 
-<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="httprs://www.ladybug.tools/spider-rad-resources/"
+<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="https://github.com/ladybug-tools/spider-rad-resources/"
 value="You are now in a GitHub web page view - Click this button to view this read me file as source code" ></div>
 
 <br>
 
-# [Spider RAD Resources Read Me]( #xxxxx/REArDME.md )
+# [Spider RAD Resources Read Me]( #README.md )
 
 <!--
 <iframe src=https://www.ladybug.tools/spider-rad-rources/xxxxx.html width=100% height=500px >Iframes are not viewable in GitHub source code views</iframe>
@@ -18,9 +18,9 @@ _<small>Spider RAD Resources</small>_
 
 ***
 
-#### [View Radiance RAD sample files online]( https://github.com/ladybug-tools/spider-rad-resources/tree/master/rad-sample-files )
+#### [View Radiance RAD sample files online]( https://www.ladybug.tools/spider-rad-resources/#rad-sample-files/README.md )
 
-#### [Explore Radiance links and resources]( https://github.com/ladybug-tools/spider-rad-resources/blob/master/radiance-resources/radiance-links.md )
+#### [Explore Radiance links and resources]( https://www.ladybug.tools/spider-rad-resources/#radiance-resources/radiance-links.md )
 
 ***
 
