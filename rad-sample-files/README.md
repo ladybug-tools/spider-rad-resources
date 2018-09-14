@@ -1,7 +1,7 @@
 
 <span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://www.ladybug.tools/spider-rad-resources/#rad-sample-files/README.md "View file as a web page." ) </span>
 
-<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="https://www.ladybug.tools/spider-rad-resources/blob/master/rad-sample-files/README.md"
+<div><input type=button class = "btn btn-secondary btn-sm" onclick=window.location.href="https://github.com/ladybug-tools/spider-rad-resources/tree/master/rad-sample-files"
 value="You are now in a GitHub web page view - Click this button to view this read me file as source code" ></div>
 
 <br>
@@ -18,6 +18,7 @@ _<small>RAD Sample Files</small>_
 
 ## Concept
 
+* Sample files you can use for testing the Spider RAD Viewer
 
 ## To Do / Wish List
 
@@ -39,7 +40,7 @@ _<small>RAD Sample Files</small>_
 
 ## Change Log
 
-###
+### 2018-09-13 ~ Theo
 
 * First commit
 
