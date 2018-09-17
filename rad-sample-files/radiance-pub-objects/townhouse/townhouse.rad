@@ -1,5 +1,5 @@
 !xform materials.rad
-!xform landscape.rad
+# !xform landscape.rad
 
 !xform skylight.rad
 !xform lights.rad
